@@ -1,2 +1,3 @@
 # CronometroWokwi.ESP-32
- Cronometro usando uma tela na simulação wokwi
+
+Cronometro utilizando uma ESP32 com uma tela LCD na simulação Wokwi.
