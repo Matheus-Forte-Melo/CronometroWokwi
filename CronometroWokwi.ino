@@ -12,7 +12,7 @@ void setup() {
 
 void loop() {
   printarTempoTela();
-  delay(10);
+  delay(1000);
 }
 
 void printarTempoTela() {
